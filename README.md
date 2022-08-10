@@ -1,4 +1,4 @@
- Hi, I’m Gabriel Retamales-Muñoz (@gabremu). Im interested in new technologies and software development used mainly for enviromental applications and data science.
+ Hi, I’m Gabriel Retamales-Muñoz (@gabrekt). Im interested in new technologies and software development used mainly for enviromental applications and data science.
  I'm currently learning software development tools and german :). 
  Looking to collaborate on any minimal project or ideas for the love of learning.
  
